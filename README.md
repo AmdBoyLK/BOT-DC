@@ -1,6 +1,6 @@
 # Discord_Bot_Ferdisnandis
 
-Meet the Ferdisnandis bot! 😅
+Meet the Music bot! 😅
 
 - Can play music on your server's voice channel 🎵
 - Can greet you when you say hello 👋
