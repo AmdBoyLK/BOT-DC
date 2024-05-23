@@ -23,7 +23,7 @@ bot.on('ready', () => {
     ],
         i = 0;
     setInterval(() => bot.user.setActivity(`${activities[i++ % activities.length]}`, {
-        type: 'WATCHING'
+        type: 'WATCHING NEWDAY SERVER'
     }), 1000 * 60)
     //Status: online
     bot.user.setStatus('online')
